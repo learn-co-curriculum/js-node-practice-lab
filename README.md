@@ -12,8 +12,7 @@ programming is actually fairly simple if you follow this process.
 First things first, let's run the code we are given. That should always be your
 first task. Just like when you are using a map to find a new restaurant, you
 need to know where you are _now_ before you can know where you need to go. The
-JavaScript file we'll be workign with is located inside a `js` folder in this
-lesson. To run the code, type `node js/index.js` in your terminal. You should
+JavaScript file in this lesson is located inside the `js` folder. To run the code, type `node js/index.js` in your terminal. You should
 get something like this:
 
 ```js
